@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="use_custom_font" mtime="1362736836" type="bool" value="true"/>
+	<entry name="show_im_name" mtime="1362736831" type="bool" value="true"/>
+	<entry name="custom_font" mtime="1364353415" type="string">
+		<stringvalue>WenQuanYi Micro Hei Mono 11</stringvalue>
+	</entry>
+</gconf>
